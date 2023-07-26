@@ -1,0 +1,45 @@
+.item {
+    border:1px solid white;
+    width:900px;
+    padding: 10px;
+    margin:20px;
+}
+
+.image {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    width:900px;
+    height: 400px;
+
+}
+
+.info p {
+font-weight: 700;
+font-size: 20px;
+margin-top:-15px;
+}
+
+.info button {
+    cursor:pointer;
+    padding: 5px 15px;
+    margin-bottom:10px;
+}
+
+.info > .description {
+    font-weight: 100;
+    font-style: italic;
+    font-size: 17px;
+}
+
+.scroll {
+    margin-bottom: 20px;
+    margin-left: 90%;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.show {
+    padding: 5px 10px;
+    cursor: pointer;
+}

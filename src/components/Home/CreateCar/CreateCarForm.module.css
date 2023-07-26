@@ -1,0 +1,22 @@
+.form {
+  
+    padding:50px 20px;
+    width:200px;
+    display:flex;
+    justify-content: center;
+    gap:15px;
+    flex-direction: column;
+}
+
+.form input {
+    font-size:17px;
+    border:none;
+    outline: none;
+}
+
+.form button {
+    cursor:pointer;
+    width: fit-content;
+    padding: 5px 15px;
+    font-size: 17px;
+}
